@@ -1,0 +1,78 @@
+{
+    "featured-works" : [
+        {
+            "id" : 1,
+            "url" : "./img/work-banner-1.jpg",
+            "name" : "cake shop"
+        },
+        {
+            "id" : 2,
+            "url" : "./img/work-banner-2.jpg",
+            "name" : "business cards"
+        },
+        {
+            "id" : 3,
+            "url" : "./img/work-banner-3.jpg",
+            "name" : "ceramic bottles"
+        },
+        {
+            "id" : 4,
+            "url" : "./img/work-banner-4.jpg",
+            "name" : "book shop"
+        },
+        {
+            "id" : 5,
+            "url" : "./img/work-banner-5.jpg",
+            "name" : "organization of holidays"
+        },
+        {
+            "id" : 6,
+            "url" : "./img/work-banner-6.jpg",
+            "name" : "business lunch"
+        }
+    ],
+    "team" : [
+        {
+            "id" : 1,
+            "name" : "Helen Adams",
+            "role" : "Project Manager",
+            "photo" : "./img/team-banner-1.jpg",
+            "info" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Saepe qui distinctio consectetur laborum aliquid a."
+        },
+        {
+            "id" : 2,
+            "name" : "AL Rayan",
+            "role" : "UI Designer",
+            "photo" : "./img/team-banner-2.jpg",
+            "info" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Saepe qui distinctio consectetur laborum aliquid a."
+        },
+        {
+            "id" : 3,
+            "name" : "Peter Parker",
+            "role" : "Developer",
+            "photo" : "./img/team-banner-3.jpg",
+            "info" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Saepe qui distinctio consectetur laborum aliquid a."
+        },
+        {
+            "id" : 4,
+            "name" : "Adam Driver",
+            "role" : "Developer",
+            "photo" : "./img/team-banner-4.jpg",
+            "info" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Saepe qui distinctio consectetur laborum aliquid a."
+        },
+        {
+            "id" : 5,
+            "name" : "Jane Ostin",
+            "role" : "QA engineer",
+            "photo" : "./img/team-banner-5.jpg",
+            "info" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Saepe qui distinctio consectetur laborum aliquid a."
+        },
+        {
+            "id" : 1,
+            "name" : "Elizabeth Olsen",
+            "role" : "HR",
+            "photo" : "./img/team-banner-1.jpg",
+            "info" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Saepe qui distinctio consectetur laborum aliquid a."
+        }
+    ]
+}
